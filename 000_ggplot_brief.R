@@ -1,5 +1,7 @@
 # reading_cookbook_plot
-#install packages 
+# install packages 
+
+# sample code for reading appendix A
 
 install.packages("ggplot2")
 install.packages("gcookbook")
